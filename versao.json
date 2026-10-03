@@ -1,13 +1,9 @@
 {
-  "versao": "1.6.3",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.3/Guias-de-Deposito-Setup-1.6.3.exe",
+  "versao": "1.6.5",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.5/Guias-de-Deposito-Setup-1.6.5.exe",
   "notas": [
-    "Escolha de usuário ao abrir o app (uma vez por sessão do Windows)",
-    "Mensagem de boas-vindas com o nome do usuário",
-    "Relógio de Brasília no cabeçalho",
-    "Temperatura atual de Colatina junto das cotações",
-    "Gravação dos dados mais segura, com recuperação automática",
-    "Validação de CNPJ unificada em todas as telas",
-    "Correções de bugs"
+    "Código interno reorganizado em partes, para facilitar futuras melhorias",
+    "Listas de escolha, janelas, bancos e validação de CNPJ unificados",
+    "Correção ao escolher banco com Enter no cadastro de chave PIX"
   ]
 }
