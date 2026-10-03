@@ -1,12 +1,9 @@
 {
-  "versao": "1.6.0",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.0/Guias-de-Deposito-Setup-1.6.0.exe",
+  "versao": "1.6.1",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.1/Guias-de-Deposito-Setup-1.6.1.exe",
   "notas": [
-    "Ajustes visuais no logo e reformulação de ícones",
-    "Correções de funcionalidades de impressão",
-    "Novas regras implementadas na geração de guias",
-    "Adicionado filtro para a janela contas cadastradas",
-    "Atualização na importação de contas",
-    "Implementado categoria de contas"
+    "Adicionado cotação de moedas",
+    "Melhorias visuais",
+    "Correção de bug nos filtros de bancos"
   ]
 }
