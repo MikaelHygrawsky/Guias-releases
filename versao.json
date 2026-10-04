@@ -1,9 +1,8 @@
 {
-  "versao": "1.6.5",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.5/Guias-de-Deposito-Setup-1.6.5.exe",
+  "versao": "1.6.6",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.6/Guias-de-Deposito-Setup-1.6.6.exe",
   "notas": [
-    "Código interno reorganizado em partes, para facilitar futuras melhorias",
-    "Listas de escolha, janelas, bancos e validação de CNPJ unificados",
-    "Correção ao escolher banco com Enter no cadastro de chave PIX"
+    "Janela de notas de atualização (e demais avisos longos) com barra de rolagem",
+    "Camadas das janelas organizadas, sem mudança visual"
   ]
 }
