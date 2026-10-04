@@ -1,9 +1,11 @@
 {
-  "versao": "1.6.7",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.7/Guias-de-Deposito-Setup-1.6.7.exe",
+  "versao": "1.6.8",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.8/Guias-de-Deposito-Setup-1.6.8.exe",
   "notas": [
-    "Atualização de dentro do app: o programa baixa e abre o instalador sozinho, sem o bloqueio do navegador",
-    "Barra de progresso do download e conferência do arquivo antes de instalar"
+    "Novo botão Histórico na folha: guarda as últimas 100 guias e permite restaurar qualquer uma",
+    "Adicionar à folha agora é Concluir; o Visualizar foi retirado",
+    "Botão Limpar com ícone de lixeira",
+    "Novo cadeado e nova animação no botão de travar dados"
   ],
-  "sha512": "285fae57fe604630a9f133103ffbfdb559f6d479f0cd6319ee4b319351c28abbecf7ca5bf1465f38cc6b6a157173e8d31598e8d9ffd5d10cf38ee947cb9ceb68"
+  "sha512": "fd058ea5cd502575fd07891471e509d0304c11c356a1174cdf18d391cc69ba567bb1b4b4084de99496cff15f4bbbcbcf88de7edb69e9ebecf79b4ffc6f579ec8"
 }
