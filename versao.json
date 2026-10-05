@@ -1,11 +1,11 @@
 {
-  "versao": "1.6.8",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.8/Guias-de-Deposito-Setup-1.6.8.exe",
+  "versao": "1.6.9",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.9/Guias-de-Deposito-Setup-1.6.9.exe",
   "notas": [
-    "Novo botão Histórico na folha: guarda as últimas 100 guias e permite restaurar qualquer uma",
-    "Adicionar à folha agora é Concluir; o Visualizar foi retirado",
-    "Botão Limpar com ícone de lixeira",
-    "Novo cadeado e nova animação no botão de travar dados"
+    "Autorização com visual novo: formulário no tamanho de uma folha A4, pensado para imprimir bem em preto e branco",
+    "Referente A e Observações agora usam a célula inteira e crescem conforme o texto",
+    "Botões Imprimir e Limpar no alto, à direita, com ícones",
+    "A Autorização imprime direto, sem janela de prévia"
   ],
-  "sha512": "fd058ea5cd502575fd07891471e509d0304c11c356a1174cdf18d391cc69ba567bb1b4b4084de99496cff15f4bbbcbcf88de7edb69e9ebecf79b4ffc6f579ec8"
+  "sha512": "7cd9e66fc62dbb5922f1ba8759f5cf2167b7711972c514a053fc45d2f9c3479900a1f4fea3d8bc1a1a1b254003326df0f1fd55076f61eafb8f1c7dc8a92d6207"
 }
