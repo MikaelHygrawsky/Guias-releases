@@ -1,9 +1,11 @@
 {
-  "versao": "1.6.13",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.13/Guias-de-Deposito-Setup-1.6.13.exe",
+  "versao": "1.6.14",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.14/Guias-de-Deposito-Setup-1.6.14.exe",
   "notas": [
-    "Iniciar com o Windows: o botão agora liga de verdade e mostra o estado real (também quando a opção é desativada no Gerenciador de Tarefas)",
-    "Nova janela de atualização: o download aparece no centro da tela com a porcentagem, e o programa fica travado até fechar sozinho"
+    "Autorização: campos reorganizados, folha com moldura e linhas de assinatura sempre alinhadas",
+    "Autorização: quando a forma de pagamento é Depósito, a guia (comum, CAIXA ou Banestes) sai embaixo da folha",
+    "Campo Conta de despesa agora é uma lista com busca por número ou nome",
+    "Segunda assinatura menor do R em cada guia"
   ],
-  "sha512": "d34159ed29d1b50f2ca5ab70f8b900d5d65289f8cd0176654c5690661a3ddc7a43bbc8eb297749043a14a228e058696b579754cfc92ca60b3fdbb6ac4ec604e3"
+  "sha512": "c9e66b4ab462f5ed108ac9e7d0a3ac80b6aeebef8ba81849bde47f40494e8c1fd6269e51a8deef86bdffaaa66ac55e46a93a9a9f4d9c22c515b0b02df08712a7"
 }
