@@ -1,11 +1,10 @@
 {
-  "versao": "1.6.9",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.9/Guias-de-Deposito-Setup-1.6.9.exe",
+  "versao": "1.6.10",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.10/Guias-de-Deposito-Setup-1.6.10.exe",
   "notas": [
-    "Autorização com visual novo: formulário no tamanho de uma folha A4, pensado para imprimir bem em preto e branco",
-    "Referente A e Observações agora usam a célula inteira e crescem conforme o texto",
-    "Botões Imprimir e Limpar no alto, à direita, com ícones",
-    "A Autorização imprime direto, sem janela de prévia"
+    "Nova opção em Configurações: Iniciar com o Windows. O programa abre sozinho, minimizado, e a opção some do Windows ao desinstalar",
+    "Janela Contas cadastradas maior, com as contas em colunas: nome, banco, C/P, agência, conta e categoria",
+    "Na escolha de usuário, nenhum nome fica em destaque ao abrir"
   ],
-  "sha512": "7cd9e66fc62dbb5922f1ba8759f5cf2167b7711972c514a053fc45d2f9c3479900a1f4fea3d8bc1a1a1b254003326df0f1fd55076f61eafb8f1c7dc8a92d6207"
+  "sha512": "1c9929e28cc43f480fe0f4e47f3831207eca37843ff152a2d39698fa8e621972f5acf42191cab00896eb7fe2575fc296704eefe72e9d388c0c87aab44588fb4c"
 }
