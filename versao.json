@@ -1,8 +1,9 @@
 {
-  "versao": "1.6.11",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.11/Guias-de-Deposito-Setup-1.6.11.exe",
+  "versao": "1.6.13",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.13/Guias-de-Deposito-Setup-1.6.13.exe",
   "notas": [
-    "Corrige a opção Iniciar com o Windows: o botão agora fica ligado e mostra o estado real"
+    "Iniciar com o Windows: o botão agora liga de verdade e mostra o estado real (também quando a opção é desativada no Gerenciador de Tarefas)",
+    "Nova janela de atualização: o download aparece no centro da tela com a porcentagem, e o programa fica travado até fechar sozinho"
   ],
-  "sha512": "92dc10c7a45bc6f8d1e8b653d8bd2387d4584d94ca6bbcb6e05f4853b96822f44ca5955ae4e0aab1b2ebe04612162d37242476a5c40468c9fb9dccfdb55f850d"
+  "sha512": "d34159ed29d1b50f2ca5ab70f8b900d5d65289f8cd0176654c5690661a3ddc7a43bbc8eb297749043a14a228e058696b579754cfc92ca60b3fdbb6ac4ec604e3"
 }
