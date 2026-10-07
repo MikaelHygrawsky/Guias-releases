@@ -1,11 +1,12 @@
 {
-  "versao": "1.6.14",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.6.14/Guias-de-Deposito-Setup-1.6.14.exe",
+  "versao": "1.7.0",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.7.0/Guias-de-Deposito-Setup-1.7.0.exe",
   "notas": [
-    "Autorização: campos reorganizados, folha com moldura e linhas de assinatura sempre alinhadas",
-    "Autorização: quando a forma de pagamento é Depósito, a guia (comum, CAIXA ou Banestes) sai embaixo da folha",
-    "Campo Conta de despesa agora é uma lista com busca por número ou nome",
-    "Segunda assinatura menor do R em cada guia"
+    "Senha para cada usuário, pedida toda vez que o programa abre; depois de 60 minutos sem uso ele volta para a tela de entrada",
+    "Primeiro acesso e \"Esqueci minha senha\": o administrador (Mikael) libera pelo código de pedido",
+    "Os dados (contas, chaves PIX, identificação, folha e histórico) ficam trancados no computador e só abrem com a senha",
+    "O arquivo de contas para enviar sai protegido por uma senha combinada",
+    "Atenção: depois de atualizar para esta versão não é possível voltar para a 1.6"
   ],
-  "sha512": "c9e66b4ab462f5ed108ac9e7d0a3ac80b6aeebef8ba81849bde47f40494e8c1fd6269e51a8deef86bdffaaa66ac55e46a93a9a9f4d9c22c515b0b02df08712a7"
+  "sha512": "c60c79a08c7b738ce64411f369156c699fe8ea4e0c00531532eccbefb35d66b7aadbf1eea910ba3a66ff2e738c003613deb7c13c55a2a7a805bcdae86593564c"
 }
