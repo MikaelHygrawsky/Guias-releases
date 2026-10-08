@@ -1,12 +1,11 @@
 {
-  "versao": "1.7.0",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.7.0/Guias-de-Deposito-Setup-1.7.0.exe",
+  "versao": "1.8.0",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.8.0/Guias-de-Deposito-Setup-1.8.0.exe",
   "notas": [
-    "Senha para cada usuário, pedida toda vez que o programa abre; depois de 60 minutos sem uso ele volta para a tela de entrada",
-    "Primeiro acesso e \"Esqueci minha senha\": o administrador (Mikael) libera pelo código de pedido",
-    "Os dados (contas, chaves PIX, identificação, folha e histórico) ficam trancados no computador e só abrem com a senha",
-    "O arquivo de contas para enviar sai protegido por uma senha combinada",
-    "Atenção: depois de atualizar para esta versão não é possível voltar para a 1.6"
+    "Cada pessoa tem o seu cadastro, com setor e assinatura. Na entrada, quando há gente de mais de um setor, escolhe-se o setor e depois o nome",
+    "A imagem da assinatura de cada pessoa fica guardada, trancada, no computador dela e só aparece para quem entrou",
+    "O administrador (Mikael) cadastra pessoas novas e corrige o nome, o setor e a assinatura de quem já existe, no próprio computador",
+    "Modo demonstração, com dados de exemplo e sem assinatura, para apresentar o programa sem mostrar nada real"
   ],
-  "sha512": "c60c79a08c7b738ce64411f369156c699fe8ea4e0c00531532eccbefb35d66b7aadbf1eea910ba3a66ff2e738c003613deb7c13c55a2a7a805bcdae86593564c"
+  "sha512": "0b2ff136b029683049512b78e3230ade2180db3795c17d1a209d96c2e34cd4620a2474ea1a2e502d057adcc0677ac7b43cfa11264c9c7ac360fc98bc4552c8bb"
 }
