@@ -1,13 +1,13 @@
 {
-  "versao": "1.8.2",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.8.2/Guias-de-Deposito-Setup-1.8.2.exe",
+  "versao": "1.8.3",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.8.3/Guias-de-Deposito-Setup-1.8.3.exe",
   "notas": [
-    "Contas: nome fantasia opcional (botão de lojinha no campo do titular e campo nos detalhes da conta)",
-    "Autorização: o Fornecedor lista as contas com nome fantasia e anda junto com o Favorecido; o Favorecido também acha pelo nome fantasia",
-    "Autorização: listas do Favorecido e do Fornecedor em colunas (Titular, Nome fantasia, Banco abreviado), na largura da tabela; nome comprido desliza para mostrar tudo",
-    "Autorização: botões Filtro, ID (identificação da empresa e ID Sicoob) e Nome fantasia, separados dos das guias, numa coluna à esquerda que acompanha a rolagem",
-    "Autorização: aviso de limite não contábil no Valor, como nas guias (Sicoob até R$ 1.999,00, outros bancos até R$ 9.999,00)",
-    "Autorização: a conta cadastrada pela janela não fica mais escolhida na aba Depósito; o campo \"Referente A\" passou a se chamar \"Referente\""
+    "Botão Nome fantasia nas abas Depósito, PIX e Autorização: ligado, a guia leva o nome fantasia no bloco de identificação; chaves PIX também têm nome fantasia",
+    "Comprovante, Nome fantasia e Travar dados agora são separados em cada aba, e o Limpar desliga os botões da aba em que foi clicado",
+    "Guia Banestes: razão social, CNPJ, titular, NI e nome fantasia numa coluna à esquerda, sem cortar; comprovante no canto de baixo à direita; conta com \"C:\" no lugar de CC/CP",
+    "Janelas Contas cadastradas (com a coluna Nome fantasia) e Chaves cadastradas em colunas; nome que não cabe desliza para mostrar tudo",
+    "Autorização: a janela Cadastrar conta continua aberta depois de salvar, e o campo Valor não fica mais por cima dela",
+    "Depois do Concluir a lista de contas não abre mais sozinha; a categoria Blogueiras passou a se chamar Blogueiros(as)"
   ],
-  "sha512": "acc04c9234ef1997fe7e62c1f66f6c7e75e32bb25dac1f1c1d306b166eeaa1872652eea8ee3c1473e5157b9b6487c7f4e3ebb89a8eee552c79f427c3b0a93836"
+  "sha512": "c5e407305f1c2c120807a31fad13684121344abfdbf256554acce300084b0fbeb24d3cf6c566d799aa309adc40aeaee5e220f9ed8362595c224759f4bb9722cf"
 }
