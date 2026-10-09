@@ -1,13 +1,12 @@
 {
-  "versao": "1.8.3",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.8.3/Guias-de-Deposito-Setup-1.8.3.exe",
+  "versao": "1.9.0",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.9.0/Guias-de-Deposito-Setup-1.9.0.exe",
   "notas": [
-    "Botão Nome fantasia nas abas Depósito, PIX e Autorização: ligado, a guia leva o nome fantasia no bloco de identificação; chaves PIX também têm nome fantasia",
-    "Comprovante, Nome fantasia e Travar dados agora são separados em cada aba, e o Limpar desliga os botões da aba em que foi clicado",
-    "Guia Banestes: razão social, CNPJ, titular, NI e nome fantasia numa coluna à esquerda, sem cortar; comprovante no canto de baixo à direita; conta com \"C:\" no lugar de CC/CP",
-    "Janelas Contas cadastradas (com a coluna Nome fantasia) e Chaves cadastradas em colunas; nome que não cabe desliza para mostrar tudo",
-    "Autorização: a janela Cadastrar conta continua aberta depois de salvar, e o campo Valor não fica mais por cima dela",
-    "Depois do Concluir a lista de contas não abre mais sozinha; a categoria Blogueiras passou a se chamar Blogueiros(as)"
+    "Nova aba Recibos: folha A4 com o valor em destaque e por extenso (automático), Recebi de, Referente, Observações, cidade e data e a linha de assinatura do emitente",
+    "Recibos: a data abre no dia de hoje, com os avisos de dia não útil e data retroativa e o calendário, como nas outras abas; a cidade já vem como Colatina - ES e pode ser trocada",
+    "Janela de ID: novo código identificador (letras ou números), que sai no bloco de identificação das guias e da Autorização; o Limpar da aba também o desliga",
+    "Guia CAIXA: o bloco de identificação com código, nome fantasia, razão social e CNPJ cabe sem cortar",
+    "Folha de impressão sem os quadrados vazios, o aviso de guia adicionada sem o modo retrato/paisagem e correções de leitura no modo escuro"
   ],
-  "sha512": "c5e407305f1c2c120807a31fad13684121344abfdbf256554acce300084b0fbeb24d3cf6c566d799aa309adc40aeaee5e220f9ed8362595c224759f4bb9722cf"
+  "sha512": "69c03ee4e6e219c1dac0b33227d26ae39573719d0ba6202d7bf9c2ea21279ddf78ec31ea4e2fb5f6eb65c194a94cfdf805d744411852ee134755f6803b94d73e"
 }
