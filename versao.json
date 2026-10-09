@@ -1,13 +1,13 @@
 {
-  "versao": "1.8.1",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.8.1/Guias-de-Deposito-Setup-1.8.1.exe",
+  "versao": "1.8.2",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.8.2/Guias-de-Deposito-Setup-1.8.2.exe",
   "notas": [
-    "Autorização: o Favorecido fica logo abaixo do Referente A e lista as contas cadastradas, com busca aproximada (nome e banco)",
-    "Autorização: com DEPÓSITO só vale conta cadastrada; Banco, Agência e Conta vêm dela, travados, e a guia de depósito sai igual à da aba Depósito (na CAIXA, com a operação da conta)",
-    "Autorização: botão \"Cadastrar conta\", com acesso às contas cadastradas, e botão Comprovante, que põe o selo na guia de depósito",
-    "Autorização: a forma NI preenche o Banco com LOJA, e o campo agora se chama \"Forma de pagamento\"",
-    "Nova categoria de conta: Blogueiras",
-    "As imagens das assinaturas não vão mais dentro do instalador: cada uma já está guardada, trancada, no computador da pessoa"
+    "Contas: nome fantasia opcional (botão de lojinha no campo do titular e campo nos detalhes da conta)",
+    "Autorização: o Fornecedor lista as contas com nome fantasia e anda junto com o Favorecido; o Favorecido também acha pelo nome fantasia",
+    "Autorização: listas do Favorecido e do Fornecedor em colunas (Titular, Nome fantasia, Banco abreviado), na largura da tabela; nome comprido desliza para mostrar tudo",
+    "Autorização: botões Filtro, ID (identificação da empresa e ID Sicoob) e Nome fantasia, separados dos das guias, numa coluna à esquerda que acompanha a rolagem",
+    "Autorização: aviso de limite não contábil no Valor, como nas guias (Sicoob até R$ 1.999,00, outros bancos até R$ 9.999,00)",
+    "Autorização: a conta cadastrada pela janela não fica mais escolhida na aba Depósito; o campo \"Referente A\" passou a se chamar \"Referente\""
   ],
-  "sha512": "11fc1877484134a8f2486bb1b5661264903a308110bb29af0ee9fa58b64dad6bb70650bf850fb06336eccf4481750e00ef141d656841756df880b8de933138fa"
+  "sha512": "acc04c9234ef1997fe7e62c1f66f6c7e75e32bb25dac1f1c1d306b166eeaa1872652eea8ee3c1473e5157b9b6487c7f4e3ebb89a8eee552c79f427c3b0a93836"
 }
