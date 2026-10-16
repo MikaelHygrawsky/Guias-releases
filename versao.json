@@ -1,9 +1,10 @@
 {
-  "versao": "1.10.1",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.10.1/Guias-de-Deposito-Setup-1.10.1.exe",
+  "versao": "1.10.2",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.10.2/Guias-de-Deposito-Setup-1.10.2.exe",
   "notas": [
-    "Aba Depósito: lista de contas em colunas (nome, nome fantasia e banco) e busca também pelo nome fantasia",
-    "Mais agilidade ao digitar na Autorização, ao pesquisar contas e ao sincronizar os cadastros"
+    "O cabeçalho se enfeita sozinho nas datas especiais do ano",
+    "Os enfeites aparecem e somem nos dias certos e voltam todo ano",
+    "Notas de atualização reescritas com explicações mais claras"
   ],
-  "sha512": "ad4ce3eac5183fc9ae2ccdc68449ea67590afdd4e2c77ebf4c2161871df3697ae628a97363586604a0b7a8befcd5e72a516a5ae7c2ad9ef8b1507acb68d707ba"
+  "sha512": "50c7abdbedc0f14dd86ae792e7b79d1ba791f53c0c11627040958f7516e12e68a3c71673ad8320e47d1b9df4166810942b1040be206f655300012285c51214d1"
 }
