@@ -1,10 +1,10 @@
 {
-  "versao": "1.10.2",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.10.2/Guias-de-Deposito-Setup-1.10.2.exe",
+  "versao": "1.11.0",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.11.0/Guias-de-Deposito-Setup-1.11.0.exe",
   "notas": [
-    "O cabeçalho se enfeita sozinho nas datas especiais do ano",
-    "Os enfeites aparecem e somem nos dias certos e voltam todo ano",
-    "Notas de atualização reescritas com explicações mais claras"
+    "Nova aba Ferramentas: Separar PDF, Correios - Rateio e Almoxarifado",
+    "Autorização: caixa Ativado mostra o que está ligado (filtros, identificação, ID Sicoob, código identificador, comprovante e nome fantasia)",
+    "Aba Depósito: a tela de avisos também mostra o código identificador ativado"
   ],
-  "sha512": "50c7abdbedc0f14dd86ae792e7b79d1ba791f53c0c11627040958f7516e12e68a3c71673ad8320e47d1b9df4166810942b1040be206f655300012285c51214d1"
+  "sha512": "64d1c2febc7f7ba4622cf91992211e849e36f94d77f884fd8118ce8ae8251c33ca19a78e196d8aa42d0fc12b500974e719fbe05ebf73f1fe6991f30ced564caf"
 }
