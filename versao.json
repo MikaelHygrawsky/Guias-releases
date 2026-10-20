@@ -1,10 +1,11 @@
 {
-  "versao": "1.11.0",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.11.0/Guias-de-Deposito-Setup-1.11.0.exe",
+  "versao": "1.11.1",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.11.1/Guias-de-Deposito-Setup-1.11.1.exe",
   "notas": [
-    "Nova aba Ferramentas: Separar PDF, Correios - Rateio e Almoxarifado",
-    "Autorização: caixa Ativado mostra o que está ligado (filtros, identificação, ID Sicoob, código identificador, comprovante e nome fantasia)",
-    "Aba Depósito: a tela de avisos também mostra o código identificador ativado"
+    "Nova ferramenta Finanças pessoais (aba Ferramentas): anote suas despesas e receitas por categoria e subcategoria e veja o resumo do mês, a visão do ano com médias e projeção, gráficos, metas de gastos e lançamentos fixos que se repetem todo mês. Os dados ficam só neste computador, e o botão Exportar gera uma planilha para o Excel",
+    "Nova ferramenta Tarefas (aba Ferramentas), com três telas: Quadro (Kanban com colunas, checklist, etiquetas, prioridade, prazo e limite de tarefas por coluna), Cronograma (Gantt com barras que você arrasta para mudar as datas, marcos, dependências, caminho crítico e opção de empurrar as tarefas seguintes) e Painel (gráficos de andamento, ritmo semanal e carga das próximas semanas). Também exporta para o Excel",
+    "Campos de banco: ao lado do campo agora há um botão que abre a lista de bancos com nome completo, se é físico ou digital, nome antigo e código. A lista de bancos foi atualizada, com mais bancos e instituições, e os bancos que deixaram de existir saíram",
+    "Os campos das novas ferramentas têm os cantos arredondados, como o resto da tela"
   ],
-  "sha512": "64d1c2febc7f7ba4622cf91992211e849e36f94d77f884fd8118ce8ae8251c33ca19a78e196d8aa42d0fc12b500974e719fbe05ebf73f1fe6991f30ced564caf"
+  "sha512": "3389f45ecd636e92c96a2d5572bf1acc23b58cf84d624a62a8fba59b204e151ea0b92f409807e4eb37ba1af46844fef2605390bdcf23dcad328376e397143208"
 }
