@@ -1,12 +1,11 @@
 {
-  "versao": "1.11.4",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.11.4/Guias-de-Deposito-Setup-1.11.4.exe",
+  "versao": "1.12.0",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.0/Guias-de-Deposito-Setup-1.12.0.exe",
   "notas": [
-    "Mercado, Bolsa: a lista padrão agora tem 79 papéis, com 50 grandes empresas do exterior separadas por setor (tecnologia, energia, bancos e seguros, consumo, saúde, indústria e comunicações), os índices DAX e Nikkei e as mercadorias cobre, minério de ferro, gás natural, milho, trigo e petróleo WTI. Quem já tem uma lista própria continua com ela; o botão Lista padrão traz a nova. Os preços de Aramco e Samsung aparecem na moeda deles",
-    "Mercado, Bolsa: as cotações são buscadas em lote, com bem menos consultas à fonte, o que evita os bloqueios por excesso de pedidos (erro 429). Se a fonte pedir calma, o programa espera e mostra a última leitura",
-    "Mercado, nova tela Juros: a Selic, a taxa do Fed (EUA) e as do Banco Central Europeu, a curva de juros dos EUA (hoje e cerca de 1 mês antes), a curva de juros do Brasil com a inflação que o mercado espera e as próximas decisões do Copom, do Fed e do BCE",
-    "Mercado, nova tela Economia: PIB, atividade (IBC-Br), desemprego, dívida bruta e líquida do governo, balança comercial, transações correntes e reservas internacionais, com o histórico de cada um",
-    "Mercado, Renda fixa: o Tesouro IPCA+ e o Tesouro Prefixado entram na comparação, já com imposto de renda e a taxa de custódia da B3, e uma tabela mostra a liquidez e o risco de crédito de cada opção. Na tela Tesouro Direto, cada título mostra em quanto tempo vence, a liquidez e o risco"
+    "Novo chat entre os usuários: uma barra no canto inferior direito da tela abre as conversas. Você vê quem está online (ou quando foi visto pela última vez) e conversa com o grupo todo ou com uma pessoa só. Quando chega uma mensagem direta, a barra muda de cor e o Windows avisa, se o programa não estiver em primeiro plano",
+    "O chat aceita arquivos: imagens, prints colados com Ctrl+V, PDF, Word, Excel, PowerPoint, texto e ZIP, até 10 MB. As imagens aparecem na própria conversa e os outros arquivos podem ser abertos ou salvos. Tudo vai trancado com a senha do grupo e o histórico fica guardado por 90 dias",
+    "O chat usa o mesmo servidor da sincronização dos cadastros, então só aparece nos computadores em que ela está ligada. Se algo não funcionar, o botão Testar o chat (em Configurações, na área Cadastros no servidor) mostra em que etapa ele falha",
+    "Guia CAIXA: as emendas entre as linhas agora ficam sem vão entre as caixas"
   ],
-  "sha512": "e71578945bfcfacb331ebe1ea8f7b0aead3b90e079969545aaf1021a9377f2d93570e22ee47f7cf91385056e90abb3d52989063230545b57bcc973a17199fed8"
+  "sha512": "8ff2042730a731947a7133845c3eca75264121f2447ce973b6afe174bd3d7f801c74c6b183a77d1ed5eca3d0565990a4ab9769d0eba7c4fca82c19b4a99d027b"
 }
