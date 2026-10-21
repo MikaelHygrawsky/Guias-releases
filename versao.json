@@ -1,12 +1,11 @@
 {
-  "versao": "1.11.2",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.11.2/Guias-de-Deposito-Setup-1.11.2.exe",
+  "versao": "1.11.3",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.11.3/Guias-de-Deposito-Setup-1.11.3.exe",
   "notas": [
-    "Nova ferramenta Mercado (aba Ferramentas): acompanhe Selic, CDI, IPCA, dólar e outras moedas, bolsa (ações, fundos, BDRs e empresas do exterior que você escolher), Tesouro Direto, uma comparação entre LCI/LCA, CDB, Tesouro Selic e poupança, as expectativas do mercado e alertas de preço. Os alertas avisam pelo Windows e na tela, mesmo com a ferramenta fechada. Precisa de internet; sem ela mostra a última leitura",
-    "Finanças pessoais: nova calculadora científica que flutua sobre a tela, com resultado ao vivo, teclado do computador e uma dica em cada tecla. Arraste pelo título para onde quiser",
-    "A ferramenta Tarefas (Kanban e Gantt) foi retirada, por pouca utilidade no dia a dia. Os dados que alguém já tenha guardado nela continuam no computador, apenas deixam de ser usados",
-    "Quando uma fonte de cotações pede calma por excesso de consultas, o Mercado agora espera um pouco, mostra a última leitura e avisa com uma mensagem clara. As cotações também são consultadas com menos frequência",
-    "O \"?\" do botão Como usar, nas Finanças, agora aparece como uma bolinha depois do texto, em vez de ficar na frente das palavras"
+    "Nova ferramenta Guia INSS (DARF): separa o INSS dos impostos retidos e carimba os valores no topo da guia, com espaço para o número interno",
+    "Contas duplicadas bloqueadas: mesma agência e conta não podem estar em dois cadastros, de qualquer banco",
+    "Campo Banco não aceita mais texto livre: entra o banco cadastrado mais parecido",
+    "Cotações de moedas do Mercado e do cabeçalho agora vêm do Yahoo Finance"
   ],
-  "sha512": "68c87c2efe60ddd94675e626dbecad4365187f1bf4764208a11f4e6747476cecde5f22ab81ad44d7788660d6e4576bae92b113e39ceb0d457273f37bc2d5371b"
+  "sha512": "a3e0d1777bc1cb2ad94c854a428bc4addf6f6f8b4c88f4c062fffadaa399353ab3fa232d98ffc18a7fbf828ca3839ccc69f82fa1695fa52165a5094195888f0b"
 }
