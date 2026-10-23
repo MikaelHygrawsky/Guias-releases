@@ -1,11 +1,12 @@
 {
-  "versao": "1.12.0",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.0/Guias-de-Deposito-Setup-1.12.0.exe",
+  "versao": "1.12.1",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.1/Guias-de-Deposito-Setup-1.12.1.exe",
   "notas": [
-    "Novo chat entre os usuários: uma barra no canto inferior direito da tela abre as conversas. Você vê quem está online (ou quando foi visto pela última vez) e conversa com o grupo todo ou com uma pessoa só. Quando chega uma mensagem direta, a barra muda de cor e o Windows avisa, se o programa não estiver em primeiro plano",
-    "O chat aceita arquivos: imagens, prints colados com Ctrl+V, PDF, Word, Excel, PowerPoint, texto e ZIP, até 10 MB. As imagens aparecem na própria conversa e os outros arquivos podem ser abertos ou salvos. Tudo vai trancado com a senha do grupo e o histórico fica guardado por 90 dias",
-    "O chat usa o mesmo servidor da sincronização dos cadastros, então só aparece nos computadores em que ela está ligada. Se algo não funcionar, o botão Testar o chat (em Configurações, na área Cadastros no servidor) mostra em que etapa ele falha",
-    "Guia CAIXA: as emendas entre as linhas agora ficam sem vão entre as caixas"
+    "PDF Hub: Separar PDF e o novo Destrancar PDF, que abre de uma vez os PDFs com senha (5 primeiros dígitos do CNPJ)",
+    "Mercado: mínima e máxima do dia na Bolsa e em todas as moedas; PAX Gold e Tether Gold nas cotações",
+    "Tesouro Selic compara o preço com o dia anterior e a curva de taxas mostra o valor certo de cada vencimento",
+    "Agência conferida no Banco Central, novas categorias de conta e filtro de bancos pelo nome",
+    "Sincronização mais segura, chat mais leve e ajustes visuais nos temas claro e escuro"
   ],
-  "sha512": "8ff2042730a731947a7133845c3eca75264121f2447ce973b6afe174bd3d7f801c74c6b183a77d1ed5eca3d0565990a4ab9769d0eba7c4fca82c19b4a99d027b"
+  "sha512": "9a5d0a66e55fb4e8b2a9d21ca1c7ae4f5a9e4517df737fc4d1b0d7f1a8bf35886414ad339b931d9816c85c7dff8edfc9350102e5dd1c36359fbf40e399247678"
 }
