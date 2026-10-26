@@ -1,8 +1,8 @@
 {
-  "versao": "1.12.3",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.3/Guias-de-Deposito-Setup-1.12.3.exe",
+  "versao": "1.12.4",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.4/Guias-de-Deposito-Setup-1.12.4.exe",
   "notas": [
-    "Chat: a barra larga do canto de baixo virou um botão redondo com o ícone das conversas, que não tampa mais os enfeites das temporadas"
+    "Temporadas: o enfeite do canto de baixo à direita voltou para o canto e o botão do chat fica ao lado dele"
   ],
-  "sha512": "9f2d324c893519b2c9d9491d996b5b3bce3d9b945a6346f761a3fa7985be12a1d0dbd8fcfe345ee3124c1a48220c7fa08ca7ed157d4451a4f792a8d6001caacc"
+  "sha512": "fd7df0ee1b3f74f1811d361e1dd792087fee2e2dd67c2d0be8a1a3cb73098dccc74231ea047e108cf4c01a5bf3a1f8906077d3784c57fb1a22d2bcf87538e86a"
 }
