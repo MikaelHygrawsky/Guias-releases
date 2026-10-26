@@ -1,12 +1,10 @@
 {
-  "versao": "1.12.1",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.1/Guias-de-Deposito-Setup-1.12.1.exe",
+  "versao": "1.12.2",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.2/Guias-de-Deposito-Setup-1.12.2.exe",
   "notas": [
-    "PDF Hub: Separar PDF e o novo Destrancar PDF, que abre de uma vez os PDFs com senha (5 primeiros dígitos do CNPJ)",
-    "Mercado: mínima e máxima do dia na Bolsa e em todas as moedas; PAX Gold e Tether Gold nas cotações",
-    "Tesouro Selic compara o preço com o dia anterior e a curva de taxas mostra o valor certo de cada vencimento",
-    "Agência conferida no Banco Central, novas categorias de conta e filtro de bancos pelo nome",
-    "Sincronização mais segura, chat mais leve e ajustes visuais nos temas claro e escuro"
+    "Correios - Rateio preenchido sozinho pelos boletos e extratos em PDF, com cadastro de cartões e botão Imprimir",
+    "Categoria opcional nos cadastros de conta e de chave PIX e novas categorias Hotel, Blogueiro(a) e Franqueado(a)",
+    "Aba PIX escolhendo a chave cadastrada e nomes das colunas presos no alto das listas"
   ],
-  "sha512": "9a5d0a66e55fb4e8b2a9d21ca1c7ae4f5a9e4517df737fc4d1b0d7f1a8bf35886414ad339b931d9816c85c7dff8edfc9350102e5dd1c36359fbf40e399247678"
+  "sha512": "7bd7bd90157a900d9ee209d134235f0e45d372f6feb4b709bebfe66e422b1b8fbded5119556c2de0db385dc703f1a0480135e212a77d0ed0d1429bc981c6101a"
 }
