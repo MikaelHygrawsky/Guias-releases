@@ -1,10 +1,8 @@
 {
-  "versao": "1.12.2",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.2/Guias-de-Deposito-Setup-1.12.2.exe",
+  "versao": "1.12.3",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.3/Guias-de-Deposito-Setup-1.12.3.exe",
   "notas": [
-    "Correios - Rateio preenchido sozinho pelos boletos e extratos em PDF, com cadastro de cartões e botão Imprimir",
-    "Categoria opcional nos cadastros de conta e de chave PIX e novas categorias Hotel, Blogueiro(a) e Franqueado(a)",
-    "Aba PIX escolhendo a chave cadastrada e nomes das colunas presos no alto das listas"
+    "Chat: a barra larga do canto de baixo virou um botão redondo com o ícone das conversas, que não tampa mais os enfeites das temporadas"
   ],
-  "sha512": "7bd7bd90157a900d9ee209d134235f0e45d372f6feb4b709bebfe66e422b1b8fbded5119556c2de0db385dc703f1a0480135e212a77d0ed0d1429bc981c6101a"
+  "sha512": "9f2d324c893519b2c9d9491d996b5b3bce3d9b945a6346f761a3fa7985be12a1d0dbd8fcfe345ee3124c1a48220c7fa08ca7ed157d4451a4f792a8d6001caacc"
 }
