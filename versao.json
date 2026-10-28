@@ -1,8 +1,9 @@
 {
-  "versao": "1.12.7",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.7/Guias-de-Deposito-Setup-1.12.7.exe",
+  "versao": "1.12.8",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.8/Guias-de-Deposito-Setup-1.12.8.exe",
   "notas": [
-    "Files Hub e Correios - Rateio: o e-mail do Outlook passa a ser lido também nos computadores em que o registro do Office ficou quebrado por outro Office desinstalado (erro \"Biblioteca não registrada\")"
+    "Atualização automática: no programa instalado a versão nova é baixada e instalada já na primeira tela, sem perguntas, e o programa abre de novo atualizado",
+    "Files Hub e Correios - Rateio: no Outlook, as pastas da conta voltam a aparecer (erro \"EntryID não encontrado\")"
   ],
-  "sha512": "3977ecd62135da89944bdb9d7354eddd1b54c573e9ec39539448bf8f8845534e9f1ec43278fbc0eca9278129880051b8db825e2310cb8aafb7913b36267a6791"
+  "sha512": "ea0b5d4c268d7cf6bbfd4e51fb483089aaed40fa0ae2455c578f8854f1231970de5f45dd5777977d14a067691a2f9779245495259c55e1e6c40f8e6964fa2a92"
 }
