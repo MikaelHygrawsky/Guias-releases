@@ -1,8 +1,8 @@
 {
-  "versao": "1.12.6",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.6/Guias-de-Deposito-Setup-1.12.6.exe",
+  "versao": "1.12.7",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.7/Guias-de-Deposito-Setup-1.12.7.exe",
   "notas": [
-    "Files Hub e Correios - Rateio: o e-mail do Outlook 2013 passa a ser reconhecido (Office \"Clique para Executar\" e de 32 bits). Quando o Outlook não responde, a tela mostra o motivo no lugar de \"nenhuma pasta\""
+    "Files Hub e Correios - Rateio: o e-mail do Outlook passa a ser lido também nos computadores em que o registro do Office ficou quebrado por outro Office desinstalado (erro \"Biblioteca não registrada\")"
   ],
-  "sha512": "12071ac34d0ea3137d8378306e6d579ce2d8efaef7344bebddca2d0954ef0bf9b7f4787e3d7bbfb6ab85c69c2ac841e987495734e14ef16bc0230cbf14a5ca25"
+  "sha512": "3977ecd62135da89944bdb9d7354eddd1b54c573e9ec39539448bf8f8845534e9f1ec43278fbc0eca9278129880051b8db825e2310cb8aafb7913b36267a6791"
 }
