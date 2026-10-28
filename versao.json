@@ -1,8 +1,9 @@
 {
-  "versao": "1.12.9",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.9/Guias-de-Deposito-Setup-1.12.9.exe",
+  "versao": "1.12.10",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.10/Guias-de-Deposito-Setup-1.12.10.exe",
   "notas": [
-    "Files Hub e Correios - Rateio: no Outlook, os PDFs dos e-mails marcados voltam a carregar (antes aparecia \"Nenhum PDF nesses e-mails\")"
+    "Atualização automática: se o Windows recusar abrir o instalador logo depois do download (antivírus ainda lendo o arquivo), o programa tenta de novo",
+    "Atualização automática: cada passo fica registrado no arquivo atualizacao.log, para saber o motivo quando ela não instalar"
   ],
-  "sha512": "8ee95c9226ed7409f22b966de76caee4dcabecb772e4984d124e4e15a5049b29270c39d2319ab2208ef98b34babf1f2e14ecd2f8b490b07bc3541fac9a502771"
+  "sha512": "e70b481825b5e7107446327c9746088968150395816c43f08f55eeedd82c88a3814fed4198fd406117974e3f3ce7b499efbf077381f713f35b81ef2d6b17cbb2"
 }
