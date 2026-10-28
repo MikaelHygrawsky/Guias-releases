@@ -1,8 +1,14 @@
 {
-  "versao": "1.12.4",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.4/Guias-de-Deposito-Setup-1.12.4.exe",
+  "versao": "1.12.5",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.5/Guias-de-Deposito-Setup-1.12.5.exe",
   "notas": [
-    "Temporadas: o enfeite do canto de baixo à direita voltou para o canto e o botão do chat fica ao lado dele"
+    "Ferramentas: novo Files Hub no lugar do PDF Hub. Numa tela só, o Separar PDF e o Destrancar PDF abrem os PDFs escolhidos no computador ou os anexos do e-mail (Thunderbird e Outlook clássico). No e-mail aparecem os e-mails com anexo e só os marcados são carregados",
+    "Files Hub: lê também os PDFs de dentro de arquivos .zip, as contas da Vivo e as contas que são só imagem (pelo código de barras). As miniaturas mostram titular, vencimento, UC e valor da conta, e os botões Gerar e imprimir e Salvar PDF ficam na barra de baixo",
+    "Correios - Rateio: lê os boletos da pasta do e-mail e de arquivos .zip, e os débitos de fatura de cartão não cadastrado entram no total geral",
+    "Almoxarifado: os setores (Comercial, Centro de Distribuição, Marketing, Administrativo, Departamento Pessoal, Crédito & Cobrança, Controladoria e Financeiro) aparecem no começo do relatório, cada um com seus gastos. Eles ficam fora da soma de cada conta, mas entram no total geral. O destaque fica no total geral sem as lojas 50 e 609",
+    "Cadastro de chave PIX: aceita CPF, celular, e-mail e chave aleatória",
+    "Contas cadastradas: a pesquisa acha a conta também pelo nome fantasia, com a mesma busca por aproximação da aba Depósito",
+    "Mercado: o gráfico do PIB em 1 ano não trava mais o programa, o botão Atualizar tenta de novo os gráficos que deram erro e as telas ficaram mais leves"
   ],
-  "sha512": "fd7df0ee1b3f74f1811d361e1dd792087fee2e2dd67c2d0be8a1a3cb73098dccc74231ea047e108cf4c01a5bf3a1f8906077d3784c57fb1a22d2bcf87538e86a"
+  "sha512": "15b29bb66209248a83c7c1f28f895b78c1b66c6b6754e26e5fef949fad11cffca114859206523e52f10f7928f7a3b171be6dd4b2e8e0ff593c359178e21bba14"
 }
