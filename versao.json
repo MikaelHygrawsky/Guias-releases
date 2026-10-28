@@ -1,9 +1,8 @@
 {
-  "versao": "1.12.8",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.8/Guias-de-Deposito-Setup-1.12.8.exe",
+  "versao": "1.12.9",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.9/Guias-de-Deposito-Setup-1.12.9.exe",
   "notas": [
-    "Atualização automática: no programa instalado a versão nova é baixada e instalada já na primeira tela, sem perguntas, e o programa abre de novo atualizado",
-    "Files Hub e Correios - Rateio: no Outlook, as pastas da conta voltam a aparecer (erro \"EntryID não encontrado\")"
+    "Files Hub e Correios - Rateio: no Outlook, os PDFs dos e-mails marcados voltam a carregar (antes aparecia \"Nenhum PDF nesses e-mails\")"
   ],
-  "sha512": "ea0b5d4c268d7cf6bbfd4e51fb483089aaed40fa0ae2455c578f8854f1231970de5f45dd5777977d14a067691a2f9779245495259c55e1e6c40f8e6964fa2a92"
+  "sha512": "8ee95c9226ed7409f22b966de76caee4dcabecb772e4984d124e4e15a5049b29270c39d2319ab2208ef98b34babf1f2e14ecd2f8b490b07bc3541fac9a502771"
 }
