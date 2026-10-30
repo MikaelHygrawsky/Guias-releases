@@ -1,9 +1,11 @@
 {
-  "versao": "1.12.10",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.10/Guias-de-Deposito-Setup-1.12.10.exe",
+  "versao": "1.12.11",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.11/Guias-de-Deposito-Setup-1.12.11.exe",
   "notas": [
-    "Atualização automática: se o Windows recusar abrir o instalador logo depois do download (antivírus ainda lendo o arquivo), o programa tenta de novo",
-    "Atualização automática: cada passo fica registrado no arquivo atualizacao.log, para saber o motivo quando ela não instalar"
+    "Autorização: PIX pela lista das chaves cadastradas, com o botão Cadastrar chave; a chave preenche Favorecido, Fornecedor e Banco",
+    "Autorização: forma de pagamento, banco e valor só depois do Favorecido ou do Fornecedor",
+    "CNPJ com letras aceito em todos os cadastros",
+    "Files Hub: contas de telefone com o número da conta em destaque"
   ],
-  "sha512": "e70b481825b5e7107446327c9746088968150395816c43f08f55eeedd82c88a3814fed4198fd406117974e3f3ce7b499efbf077381f713f35b81ef2d6b17cbb2"
+  "sha512": "375012d7b863d9460422f76cd4452e363ae0547c6bb8d246e268bc0b47c6fa938e16dc606ea36c6d06dd77fc268fdd07c9cca33ca70a889ee42fe4903959cb47"
 }
