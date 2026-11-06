@@ -1,11 +1,11 @@
 {
-  "versao": "1.12.11",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.12.11/Guias-de-Deposito-Setup-1.12.11.exe",
+  "versao": "1.13.0",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.13.0/Guias-de-Deposito-Setup-1.13.0.exe",
   "notas": [
-    "Autorização: PIX pela lista das chaves cadastradas, com o botão Cadastrar chave; a chave preenche Favorecido, Fornecedor e Banco",
-    "Autorização: forma de pagamento, banco e valor só depois do Favorecido ou do Fornecedor",
-    "CNPJ com letras aceito em todos os cadastros",
-    "Files Hub: contas de telefone com o número da conta em destaque"
+    "Gerenciamento de usuários pelo administrador: retirada de acesso e escolha das telas, ferramentas e ações de cada pessoa.",
+    "Registro de atividade, consultado só pelo administrador, guardado por 90 dias.",
+    "Conexão automática com o servidor em computadores novos, com a cópia da chave do administrador.",
+    "Nova janela de progresso durante a instalação das atualizações."
   ],
-  "sha512": "375012d7b863d9460422f76cd4452e363ae0547c6bb8d246e268bc0b47c6fa938e16dc606ea36c6d06dd77fc268fdd07c9cca33ca70a889ee42fe4903959cb47"
+  "sha512": "d63bd515160e7032de22110ada32109737ea8dd7dd3e12eaeb21a7ae70f6ffc3a2071ce66cb318d086dd482cb1362733547c331e6767226d10d204df17a71180"
 }
