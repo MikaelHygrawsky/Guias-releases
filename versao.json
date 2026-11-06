@@ -1,11 +1,11 @@
 {
-  "versao": "1.13.0",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.13.0/Guias-de-Deposito-Setup-1.13.0.exe",
+  "versao": "1.13.1",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.13.1/Guias-de-Deposito-Setup-1.13.1.exe",
   "notas": [
-    "Gerenciamento de usuários pelo administrador: retirada de acesso e escolha das telas, ferramentas e ações de cada pessoa.",
-    "Registro de atividade, consultado só pelo administrador, guardado por 90 dias.",
-    "Conexão automática com o servidor em computadores novos, com a cópia da chave do administrador.",
-    "Nova janela de progresso durante a instalação das atualizações."
+    "Pesquisa aproximada na lista de e-mails do Files Hub, para encontrar e-mails específicos com mais facilidade.",
+    "Progresso da instalação das atualizações exibido na tela do próprio instalador.",
+    "Temporadas do cabeçalho com novas paisagens e animações.",
+    "Desenhos das temporadas também visíveis com a janela no tamanho padrão."
   ],
-  "sha512": "d63bd515160e7032de22110ada32109737ea8dd7dd3e12eaeb21a7ae70f6ffc3a2071ce66cb318d086dd482cb1362733547c331e6767226d10d204df17a71180"
+  "sha512": "7d7dccc44f72b8d70c9d50c995b135c7d13cb138d1e48205059cd2bbd782d1ebd130c10a5ec11e98d540019096f116a7c45c122136c6ec891a7dd2a68d8b0983"
 }
