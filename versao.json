@@ -1,11 +1,11 @@
 {
-  "versao": "1.13.1",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.13.1/Guias-de-Deposito-Setup-1.13.1.exe",
+  "versao": "1.13.2",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.13.2/Guias-de-Deposito-Setup-1.13.2.exe",
   "notas": [
-    "Pesquisa aproximada na lista de e-mails do Files Hub, para encontrar e-mails específicos com mais facilidade.",
-    "Progresso da instalação das atualizações exibido na tela do próprio instalador.",
-    "Temporadas do cabeçalho com novas paisagens e animações.",
-    "Desenhos das temporadas também visíveis com a janela no tamanho padrão."
+    "Novo fundo do programa em ondas de linhas firmes e uniformes, com o fundo menos branco.",
+    "Painéis da tela principal em tom de papel claro no lugar do branco puro.",
+    "Temporadas sem desenhos sobrepostos ao logo e aos botões com a janela pequena.",
+    "Temporada da Proclamação da República a partir de 10 de novembro."
   ],
-  "sha512": "7d7dccc44f72b8d70c9d50c995b135c7d13cb138d1e48205059cd2bbd782d1ebd130c10a5ec11e98d540019096f116a7c45c122136c6ec891a7dd2a68d8b0983"
+  "sha512": "1438df4f6642c981fc81dcb99cc61968aafdc0b724c19c7d07ba38738fd420fee965d6582085e2c0f664068f38f8527668c8bb7e44644bf6c9b16998e137fa8a"
 }
