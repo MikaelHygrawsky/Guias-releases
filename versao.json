@@ -1,11 +1,9 @@
 {
-  "versao": "1.13.2",
-  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.13.2/Guias-de-Deposito-Setup-1.13.2.exe",
+  "versao": "1.13.3",
+  "url": "https://github.com/MikaelHygrawsky/Guias-releases/releases/download/v1.13.3/Guias-de-Deposito-Setup-1.13.3.exe",
   "notas": [
-    "Novo fundo do programa em ondas de linhas firmes e uniformes, com o fundo menos branco.",
-    "Painéis da tela principal em tom de papel claro no lugar do branco puro.",
-    "Temporadas sem desenhos sobrepostos ao logo e aos botões com a janela pequena.",
-    "Temporada da Proclamação da República a partir de 10 de novembro."
+    "Se a abertura do programa falhar, a tela mostra o motivo e um botão para tentar de novo, em vez de ficar só verde.",
+    "Os erros do programa ficam gravados no arquivo erros.log (pasta do programa em AppData), para facilitar achar a causa de problemas."
   ],
-  "sha512": "1438df4f6642c981fc81dcb99cc61968aafdc0b724c19c7d07ba38738fd420fee965d6582085e2c0f664068f38f8527668c8bb7e44644bf6c9b16998e137fa8a"
+  "sha512": "eb3b8c6426bd06a568ea32cd69202c1396d7efa38d16faa79a6d34e1d330f7ca60de1f9d1e4ca44acd885d70bf1988ac9bc58ad396518583d33b18c85ea479ac"
 }
